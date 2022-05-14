@@ -17,10 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "omrantal3.mealstogo",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
       "package":"omrantal3.mealstogo",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
